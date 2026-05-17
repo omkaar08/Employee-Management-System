@@ -1,0 +1,14 @@
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\bin\Debug\net10.0\HelloDotNet.exe
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\bin\Debug\net10.0\HelloDotNet.deps.json
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\bin\Debug\net10.0\HelloDotNet.runtimeconfig.json
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\bin\Debug\net10.0\HelloDotNet.dll
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\bin\Debug\net10.0\HelloDotNet.pdb
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfoInputs.cache
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfo.cs
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.csproj.CoreCompileInputs.cache
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.dll
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\refint\HelloDotNet.dll
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.pdb
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\HelloDotNet.genruntimeconfig.cache
+D:\firebase-auth-demo\DotNetProjects\HelloDotNet\obj\Debug\net10.0\ref\HelloDotNet.dll
